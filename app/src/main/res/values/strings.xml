@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AtmosphericPressureCalculator</string>
+    <string name="txt_title">Atmospheric Pressure Calculator</string>
+    <string name="txt_description">Atmospheric Pressure is the force exerted on a surface by the air above it as gravity pulls it to Earth</string>
+    <string name="txt_calculate">Calculate</string>
+    <string name="txt_problem">What force is exerted by the atmosphere over an area of _____m x _____m at _____ atmosphere?</string>
+    <string name="txt_length">Enter Length</string>
+    <string name="txt_width">Enter Width</string>
+    <string name="txt_multiply">X</string>
+    <string name="txt_meters1">In meters</string>
+    <string name="txt_meters2">In meters</string>
+    <string name="txt_close">Close</string>
+    <string name="Result">Result....</string>
+    <string name="Area">Area</string>
+    <string name="btn_return">Return</string>
+    <string name="txt_atmosphere">Enter Atmosphere</string>>
+    <string name="txt_1atmReference">1 ATM ~ 10000 kg or \n 1 adult African Bush Elephant</string>
+    <string name="txt_atmForReference">For Reference</string>
+    <string name="elephant">Elephant</string>
+    <string name="txt_2atmReference">2 ATM ~ 20,000 kg or \n 1 Adult Sei Whale</string>
+    <string name="seiwhale">seiwhale</string>
+    <string name="txt_3atmReference">3 ATM ~ 31000 kg or \n 1 Humpback Whale</string>
+    <string name="humpbackwhale">humpbackwhale</string>
+    <string name="txt_4atmReference">4 ATM ~ 40500 kg or \n 2 Sei Whales</string>
+    <string name="txt_5atmReference">5 ATM ~ 52000 kg or \n 5 African Bush Elephants</string>
+</resources>
